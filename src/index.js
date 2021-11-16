@@ -1,8 +1,9 @@
 import { createElement } from "./createElement"
 import './style.css';
-import pizaImg from './piz.webp'
-import staffImg from './staff.jpg'
-import saladImg from './salad.jpg'
+import pizaImg from './components/images/piz.webp'
+import saladImg from './components/images/salad.jpg'
+import staffImg from './components/images/staff.jpg'
+
 
 const header = (() => {
     createElement('headerContainer', 'div', 'headerContain')

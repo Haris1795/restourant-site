@@ -22,7 +22,7 @@ body {
     margin: none;
     padding: none;
     height: 250px;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.034), rgba(19,18,18,1)), url(head.jpg);
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.034), rgba(19,18,18,1)), url(./components/images/head.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
 }
